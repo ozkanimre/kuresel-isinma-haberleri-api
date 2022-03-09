@@ -1,8 +1,8 @@
-# kuresel-isinma-haberleri-api
-https://kuresel-isinma-haberleri.herokuapp.com/
+# kuresel-isinma-haberleri-api <br/>
+https://kuresel-isinma-haberleri.herokuapp.com/ <br/>
 
-Endpointler:
-/haberler -> bütün haberler
-/haberler/cnnturk -> cnnturk haberleri
-/haberler/hurriyet -> hurriyet haberleri
-/haberler/sondakika -> sondakika haberleri
+Endpointler: <br/>
+/haberler -> bütün haberler <br/>
+/haberler/cnnturk -> cnnturk haberleri <br/>
+/haberler/hurriyet -> hurriyet haberleri <br/>
+/haberler/sondakika -> sondakika haberleri <br/>
